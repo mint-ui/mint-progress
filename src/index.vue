@@ -59,6 +59,8 @@
 
 <script type="text/ecmascript-6">
   export default {
+    name: 'mt-progress',
+
     props: {
       value: {
         type: Number
